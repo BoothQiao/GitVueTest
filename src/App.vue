@@ -4,6 +4,8 @@
     <mt-header fixed title="黑马程序员Vue项目"></mt-header>
     <h1>123</h1>
 	<!-- 中间区域 -->
+
+	<!-- 哈哈啊，提交成功了 -->
     <!-- 底部 Tabbar 区域 -->
     <nav class="mui-bar mui-bar-tab">
 			<a class="mui-tab-item mui-active" href="#tabbar">
