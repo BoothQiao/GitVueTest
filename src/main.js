@@ -9,6 +9,11 @@ Vue.use(VueRouter)
 import 'bootstrap/dist/css/bootstrap.css'
 import './css/app.css'
 
+// 2.1 导入 vue-resource
+import VueResource from 'vue-resource'
+// 2.2 安装 vue-resource
+Vue.use(VueResource)
+
 // 导入 MUI 的样式
 import './lib/mui/css/mui.min.css'
 // 导入扩展图标样式
